@@ -1,4 +1,4 @@
-﻿# Compiled source #
+# Compiled source #
 ###################
 *.com
 *.class
@@ -40,7 +40,6 @@ Thumbs.db
 [Ll]ibrary
 [Tt]emp
 [Bb]uilds
-*.unityproj
 
 # Visual Studio #
 #################
