@@ -2,4 +2,6 @@
 
 http://habrahabr.ru/post/182998/
 
-http://basmanovdaniil.github.io/SpatialHash/
+Unity Web Player http://basmanovdaniil.github.io/SpatialHash/
+
+Работоспособность проверялась только на четвёртой версии Unity3d
