@@ -1,4 +1,4 @@
-Реализация техники Spatial Hashing для Unity
+Реализация техники Spatial Hashing для Unity3d
 
 http://habrahabr.ru/post/182998/
 
